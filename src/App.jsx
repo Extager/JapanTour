@@ -1,5 +1,6 @@
 import Header from "./components/header/header";
 import About from './components/main/about/about';
+import DS from './components/main/details_short/details_short';
 
 export default function App() {
   return (
@@ -9,6 +10,9 @@ export default function App() {
       </div>
       <div>
         <About />
+      </div>
+      <div>
+        <DS />
       </div>
 
     </div>
