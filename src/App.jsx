@@ -4,6 +4,7 @@ import DS from './components/main/details_short/details_short';
 import Reasons from "./components/main/reasons/reasons";
 import Reason_1 from "./components/main/reason_1/reason1";
 import Reason_2 from "./components/main/reason_2/reason_2";
+import Reason_3 from "./components/main/reason_3/reason_3";
 
 export default function App() {
   return (
@@ -33,6 +34,9 @@ export default function App() {
         <Reason_2 />
       </div>
       
+      <div>
+        <Reason_3 />
+      </div>
     </div>
   )
 }
