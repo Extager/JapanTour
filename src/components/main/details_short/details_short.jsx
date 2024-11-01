@@ -2,7 +2,7 @@ import Calendar from '../../../images/Calendar.svg';
 import City from '../../../images/City.svg';
 import Wallet from '../../../images/Wallet.svg';
 
-export default  function DS(){
+export default function DS(){
     return(
         <div className="w-full flex h-[50vh] justify-center items-center">
             <div className="text-center flex mx-5 flex-col items-center w-[360px]">
