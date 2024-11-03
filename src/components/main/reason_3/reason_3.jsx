@@ -1,8 +1,8 @@
 export default function Reason_3() {
     return(
-        <div className="w-[100%] h-[100vh] flex justify-center items-center bg-[url('./images/Reason3.jpg')] bg-center bg-cover bg-fixed">
+        <div className="w-[100vw] h-[100vh] flex justify-center items-center bg-[url('./images/Reason3.jpg')] bg-center bg-cover bg-fixed">
             <div className="bg-white flex items-center justify-center w-[92vh] h-auto px-[60px] py-[60px] text-left">
-                <div className="items-center flex flex-col justify-center">
+                <div className="items-center flex flex-col justify-center text-pretty" >
                     <p className="text-[42px] py-[20px] font-medium">Третья причина: охота за сокровищами</p>
                     <p className="text-[20px] py-[20px]">Кто не любит хороший сувенир? 
                         Мы знаем все о блошиных рынках, магазинах модных дизайнеров и фестивалях уличной еды, и проведем вас по самым классным местам.
