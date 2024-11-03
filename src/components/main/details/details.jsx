@@ -4,9 +4,9 @@ import Wallet from '../../../images/Wallet.svg';
 
 export default function Details(){
     return(
-        <div className="w-[100vw] h-[100vh] flex justify-center flex-col items-center pt-[135px] pb-[105px]" >
+        <div className="w-[100vw] h-[90vh] flex justify-center flex-col items-center pt-[135px] pb-[105px]" >
             <p className='mb-[105px] text-[42px] font-medium'>Детали тура</p>
-            <div className='flex justify-center w-[100%] h-[100vh]'>
+            <div className='flex justify-center w-[100%] h-[100%]'>
                 <div className="flex flex-col text-center items-center mx-5 text-pretty max-w-[360px] ">
                     <img src={Bed} alt="Image Error" className='w-[100px] h-[100px]' />
                     <p className='text-2xl font-medium'>Номера на 1 или 2</p>

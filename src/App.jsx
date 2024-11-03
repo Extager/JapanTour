@@ -6,6 +6,7 @@ import Reason_1 from "./components/main/reason_1/reason1";
 import Reason_2 from "./components/main/reason_2/reason_2";
 import Reason_3 from "./components/main/reason_3/reason_3";
 import Details from './components/main/details/details';
+import Price from "./components/main/price/price";
 
 export default function App() {
   return (
@@ -43,6 +44,9 @@ export default function App() {
         <Details />
       </div>
       
+      <div>
+        <Price />
+      </div>
     </div>
   )
 }
