@@ -7,6 +7,7 @@ import Reason_2 from "./components/main/reason_2/reason_2";
 import Reason_3 from "./components/main/reason_3/reason_3";
 import Details from './components/main/details/details';
 import Price from "./components/main/price/price";
+import Advices from "./components/main/advices/advices";
 
 export default function App() {
   return (
@@ -46,6 +47,10 @@ export default function App() {
       
       <div>
         <Price />
+      </div>
+
+      <div>
+        <Advices />
       </div>
     </div>
   )
