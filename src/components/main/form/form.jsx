@@ -32,7 +32,7 @@ export default function Form(){
         // Функция, чтобы отправить данные на ваш сервер 
     }
     return(
-        <div className="flex flex-col justify-center items-center w-screen h-screen">
+        <div className="flex flex-col justify-center items-center text-center w-screen h-screen">
             <p className="text-4xl font-medium mb-6 max-sm:text-3xl">Забронируйте тур сейчас</p>
             <div className="w-[40%] flex flex-col text-center text-2xl max-sm:w-[70%]">
                 <div className="flex max-w-[50vw] font-extralight mb-[74px] max-sm:text-base max-sm:max-w-[100vw]">

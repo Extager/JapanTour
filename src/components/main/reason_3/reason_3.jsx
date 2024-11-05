@@ -5,7 +5,7 @@ export default function Reason_3() {
             <div className="bg-white flex items-center justify-center w-[50%] h-auto px-[60px] py-[60px] 
             max-sm:w-screen max-sm:border-y-4 border-black 
             max-lg:w-[70%] text-left max-lg:border-b-4">
-                <div className="items-center flex flex-col justify-center text-pretty" >
+                <div className="items-center flex flex-col justify-center text-pretty max-sm:text-balance" >
                     <p className="text-[42px] py-[20px] font-medium">Третья причина: охота за сокровищами</p>
                     <p className="text-[20px] py-[20px] font-light">Кто не любит хороший сувенир? 
                         Мы знаем все о блошиных рынках, магазинах модных дизайнеров и фестивалях уличной еды, и проведем вас по самым классным местам.
